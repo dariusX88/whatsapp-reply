@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-reply",
+  "displayName": "WhatsApp Reply",
+  "description": "Say a contact's name and Claude drafts a reply to their last WhatsApp message in your voice — you approve before anything sends.",
+  "version": "0.1.0",
+  "author": { "name": "Darius Mirza" },
+  "homepage": "https://github.com/dariusX88/whatsapp-reply",
+  "repository": "https://github.com/dariusX88/whatsapp-reply",
+  "license": "MIT",
+  "keywords": ["whatsapp", "playwright", "automation", "messaging", "reply", "claude"],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

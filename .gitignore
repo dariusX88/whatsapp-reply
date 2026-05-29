@@ -1,0 +1,8 @@
+# The runtime (login profile, API key, deps) lives in ~/.whatsapp-reply, never here.
+# These entries just protect against accidental local testing inside the repo.
+node_modules/
+wa-profile/
+.env
+context.txt
+*.log
+.DS_Store

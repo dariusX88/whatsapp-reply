@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-reply-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Runtime scripts for the whatsapp-reply Claude Code plugin (run from ~/.whatsapp-reply).",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "playwright": "^1.60.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-reply",
+  "owner": { "name": "Darius Mirza" },
+  "plugins": [
+    {
+      "name": "whatsapp-reply",
+      "source": "./",
+      "description": "Draft and send WhatsApp replies from Claude Code — Claude reads a chat, writes a reply in your voice, and sends only after you approve.",
+      "skills": ["./skills/whatsapp-reply"]
+    }
+  ]
+}
