@@ -1,6 +1,7 @@
 {
   "name": "whatsapp-reply",
   "owner": { "name": "Darius Mirza" },
+  "description": "Reply to your WhatsApp messages from Claude Code — Claude drafts in your voice, you approve before it sends.",
   "plugins": [
     {
       "name": "whatsapp-reply",
